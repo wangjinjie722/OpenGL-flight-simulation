@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/5/30 22:35:26。
+     1>项目“C:\Users\70499\Desktop\2013\2013\2013.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt loadModel.cpp
+         loadModel.cpp
+     1>c:\users\70499\desktop\2013\2013\loadmodel.cpp(483): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\users\70499\desktop\2013\2013\loadmodel.cpp(537): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\70499\desktop\2013\2013\loadmodel.cpp(538): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\70499\desktop\2013\2013\loadmodel.cpp(542): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\70499\desktop\2013\2013\loadmodel.cpp(543): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\70499\desktop\2013\2013\loadmodel.cpp(545): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\70499\desktop\2013\2013\loadmodel.cpp(546): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\70499\desktop\2013\2013\loadmodel.cpp(553): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\70499\Desktop\2013\Debug\2013.exe" /INCREMENTAL /NOLOGO opengl32.lib glfw3.lib glew32s.lib SOIL.lib assimp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\70499\Desktop\2013\Debug\2013.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\70499\Desktop\2013\Debug\2013.lib" /MACHINE:X86 Debug\loadModel.obj
+         2013.vcxproj -> C:\Users\70499\Desktop\2013\Debug\2013.exe
+     1>已完成生成项目“C:\Users\70499\Desktop\2013\2013\2013.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.83
