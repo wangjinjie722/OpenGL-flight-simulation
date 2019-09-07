@@ -1,5 +1,5 @@
 # OpenGL-flight-simulation
-### This is the project of my naive undergraduate thesis. Honestly, it's ungly, rough and simple. But this is the start of my coding career
+### This is the project of my naive undergraduate thesis. Honestly, it's ungly, rough and simple. But this is the start of my coding career.
 
 In this project, I used **OpenGL, C++ and 3DSmax** to simulate the flight process of airplane. I hope this can help the people whos in the same dilemma as me one year ago.
 
