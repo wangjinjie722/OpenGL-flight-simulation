@@ -7,15 +7,19 @@ OpenGL may not be a popular frame for simulation, there's still another excellen
 
 If u still need it, please feel free to email me but I may not give it to u lol.
 
-- TODO list:
-  - Change the terrian(use WebGL please).
-  - Add more shadows.
-  - Seperate the components of the plane.
+
  
 
 ![](https://i.imgur.com/fnNddtQ.png)
 
+***
 
+- TODO list:
+  - Change the terrian(use WebGL please).
+  - Add more shadows.
+  - Seperate the components of the plane.
+  
+***
 
 - Author:
   - Name : Kai Wang
